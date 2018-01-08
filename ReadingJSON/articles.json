@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "name": "The Php Elephant"
+    },
+    {
+      "id": 2,
+      "name": "Git is my friend"
+    },
+    {
+      "id": 3,
+      "name": "Photoshop is my editor of choice"
+    }
+  ]
+}
